@@ -1,4 +1,26 @@
 # math
+
+NOTE [**git push -u origin master** fails](https://stackoverflow.com/questions/60660765/error-failed-to-push-some-refs-to-https-github-com) : 
+
+	$ git push -u origin master
+	error: src refspec master does not match any
+	error: failed to push some refs to 'https://github.com/ftk1000/math.git'
+
+But this works:
+
+	$ git push -u origin main
+	Enumerating objects: 26, done.
+	Counting objects: 100% (26/26), done.
+	Delta compression using up to 4 threads
+	Compressing objects: 100% (22/22), done.
+	Writing objects: 100% (24/24), 437.74 KiB | 14.12 MiB/s, done.
+	Total 24 (delta 3), reused 0 (delta 0), pack-reused 0
+	remote: Resolving deltas: 100% (3/3), completed with 1 local object.
+	To https://github.com/ftk1000/math.git
+	   af66b23..cacbcf3  main -> main
+	Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+
 2021.01.05
 
       Quick setup — if you’ve done this kind of thing before
