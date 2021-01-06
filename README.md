@@ -10,6 +10,7 @@
 
       echo "# math" >> README.md
       git init
+	  touch .gitignore
       git add README.md
       git commit -m "first commit"
       git branch -M main
