@@ -1,6 +1,6 @@
 # math
 
-NOTE if you follow the instructions below for adding and commiting new files, the following [PUSH fails](https://stackoverflow.com/questions/60660765/error-failed-to-push-some-refs-to-https-github-com) : 
+NOTE [**git push -u origin master** fails](https://stackoverflow.com/questions/60660765/error-failed-to-push-some-refs-to-https-github-com) : 
 
 	$ git push -u origin master
 	error: src refspec master does not match any
