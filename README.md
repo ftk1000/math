@@ -1,5 +1,16 @@
 # math
 
+Typical sequence after local repo files are updated:
+
+		$ git add .
+
+		$ git commit -m '2021.01.06'
+
+		$ git push -u origin main
+		Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+
+
 NOTE [**git push -u origin master** fails](https://stackoverflow.com/questions/60660765/error-failed-to-push-some-refs-to-https-github-com) : 
 
 	$ git push -u origin master
