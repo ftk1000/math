@@ -20,6 +20,8 @@ But this works:
 	   af66b23..cacbcf3  main -> main
 	Branch 'main' set up to track remote branch 'main' from 'origin'.
 
+NOTE: if some files (eg README.md) gets updated on github.com, use **git pull origin** to synch folder files with github.com files, and the do PUSH.
+
 
 2021.01.05
 
