@@ -1,5 +1,10 @@
 # math
 
+* [https://github.com/rossant/awesome-math#foundations-of-mathematics](https://github.com/rossant/awesome-math#foundations-of-mathematics)<br>
+
+
+---------
+
 Typical sequence after local repo files are updated:
 
 		$ git add .
