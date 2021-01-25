@@ -53,6 +53,13 @@
 []()<br>
 
 
+## [Square Root of M](http://twt.mpei.ac.ru/math/larb/Quadrf/LA_06030400.html#:~:text=%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0%20S%20%D0%BD%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%BC%20%D0%BA%D0%BE%D1%80%D0%BD%D0%B5%D0%BC,%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%8B%20A1%2F2.)
+
+* Для любой симметричной [положительно определённой](http://twt.mpei.ac.ru/math/larb/Quadrf/LA_06030100.html) матрицы A существует такая симметричная положительно определённая матрица $S$, что $A = S^2$.<br>
+* Матрица  $S$ называется квадратным корнем (арифметическим квадратным корнем) из матрицы $A$, $S = A^{1/2}$.<br>
+* Матрицы $A$ и $A^{1/2}$ перестановочны.<br>
+* Собственные векторы матриц $A$ и $A^{1/2}$ совпадают, а собственные значения матрицы $A$ равны квадратам собственных значений матрицы $A^{1/2}$ .<br>
+
 ## Probabilistic Graphical Models
 [2017: Conditional Random Fields - Stanford University (By Daphne Koller)](https://www.youtube.com/watch?v=rc3YDj5GiVM&list=PLQl7D2xuMMNq5lj52YpCjGvgOrjvX4h5G)<br>
     - CRF generalized Logistic Regression Model<br>
