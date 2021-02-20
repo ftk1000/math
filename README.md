@@ -2,6 +2,12 @@
 
 * [https://github.com/rossant/awesome-math#foundations-of-mathematics](https://github.com/rossant/awesome-math#foundations-of-mathematics)<br>
 
+* [https://www.desmos.com/calculator](https://www.desmos.com/calculator/dxkknajdqb)
+
+* [https://www.wolframalpha.com/](https://www.wolframalpha.com/)
+
+* []()
+* []()
 
 ---------
 
