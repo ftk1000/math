@@ -6,7 +6,22 @@
 
 * [https://www.wolframalpha.com/](https://www.wolframalpha.com/)
 
+* [simulated-annealing-from-scratch-in-python](https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/)
+
+* [no-free-lunch-theorem-for-machine-learning](https://machinelearningmastery.com/no-free-lunch-theorem-for-machine-learning/)
+
 * []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
 * []()
 
 ---------
