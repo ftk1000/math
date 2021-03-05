@@ -18,6 +18,8 @@
 * []()
 
 * []()
+ 
+## [https://www.face-rec.org/algorithms/](https://www.face-rec.org/algorithms/)
 
 * []()
 
