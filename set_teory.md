@@ -8,6 +8,8 @@
 * [Cantor’s Continuum Hypothesis Set Theory - W. H. Woodin - 2/23/2019](https://youtu.be/hk0iPpeFNLU)<br>
 * []()<br>
 * [AC + more](https://math.vanderbilt.edu/schectex/ccc/choice.html)<br>
+  - Jerry Bona: The Axiom of Choice is obviously true; the Well Ordering Principle is obviously false; and who can tell about Zorn's Lemma?
+  
 * []()<br>
 * []()<br>
 [Godel Incompleteness Theorem:  this statement is not provable from axioms of mathematics](https://www.youtube.com/watch?v=O4ndIDcDSGc)<br>
