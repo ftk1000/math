@@ -13,7 +13,17 @@
 [Kelsey Houston-Edwards: Kill the Mathematical Hydra | Infinite Series](https://www.youtube.com/watch?v=uWwUpEY4c8o)<br>
 []()<br>
 []()<br>
-[]()<br>
-[]()<br>
+
+
+# CH
+* [Mathematician W. Hugh Woodin Explains Continuum Hypothesis](https://youtu.be/ZC7wglkBWMM)
+* [Cantor’s Continuum Hypothesis Set Theory - W. H. Woodin - 2/23/2019](https://youtu.be/hk0iPpeFNLU)<br>
+* [Exploring the Frontiers of Incompleteness](http://logic.harvard.edu/efi.php#multimedia)<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
+* []()<br>
 
 
