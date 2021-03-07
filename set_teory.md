@@ -1,3 +1,15 @@
+[Kelsey Houston-Edwards: Kill the Mathematical Hydra | Infinite Series](https://www.youtube.com/watch?v=uWwUpEY4c8o)<br>
+[]()<br>
+[]()<br>
+
+
+# AC, CH, Incompleteness
+* [Mathematician W. Hugh Woodin Explains Continuum Hypothesis](https://youtu.be/ZC7wglkBWMM)
+* [Cantor’s Continuum Hypothesis Set Theory - W. H. Woodin - 2/23/2019](https://youtu.be/hk0iPpeFNLU)<br>
+* []()<br>
+* [AC + more](https://math.vanderbilt.edu/schectex/ccc/choice.html)<br>
+* []()<br>
+* []()<br>
 [Godel Incompleteness Theorem:  this statement is not provable from axioms of mathematics](https://www.youtube.com/watch?v=O4ndIDcDSGc)<br>
   - Godel coded the following STATEMENT **"THIS SENTENCE CANNOT BE PROVED FROM THE AXIOMS"** into an equation. 
   As an equation it must be either TRUE or FALSE. 
@@ -10,19 +22,7 @@
 [Goodstein sequence](https://www.youtube.com/watch?v=oBOZ2WroiVY)<br>
   - Kirby-Paris Thm: to prove Goldstein's thm about numbers we have to use \omega<br>
   
-[Kelsey Houston-Edwards: Kill the Mathematical Hydra | Infinite Series](https://www.youtube.com/watch?v=uWwUpEY4c8o)<br>
-[]()<br>
-[]()<br>
-
-
-# CH
-* [Mathematician W. Hugh Woodin Explains Continuum Hypothesis](https://youtu.be/ZC7wglkBWMM)
-* [Cantor’s Continuum Hypothesis Set Theory - W. H. Woodin - 2/23/2019](https://youtu.be/hk0iPpeFNLU)<br>
 * [Exploring the Frontiers of Incompleteness](http://logic.harvard.edu/efi.php#multimedia)<br>
-* []()<br>
-* []()<br>
-* []()<br>
-* []()<br>
 * []()<br>
 * []()<br>
 
