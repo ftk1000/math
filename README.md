@@ -23,7 +23,9 @@
 
 * []()
 
-* []()
+### Erdos
+
+* [Erdos number list at oakland.edu](https://oakland.edu/enp/thedata/erdos1/)
 
 * []()
 
