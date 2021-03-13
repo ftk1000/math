@@ -23,7 +23,7 @@
 
 ## Reading
 
-* [High-Dimensional_Data_Analysis_The_Curses_and_Blessings_of_Dimensionality](https://www.researchgate.net/publication/220049061_High-Dimensional_Data_Analysis_The_Curses_and_Blessings_of_Dimensionality)
+* [High-Dimensional_Data_Analysis_The_Curses_and_Blessings_of_Dimensionality, David Donoho](https://www.researchgate.net/publication/220049061_High-Dimensional_Data_Analysis_The_Curses_and_Blessings_of_Dimensionality)
 * []()
 
 * []()
