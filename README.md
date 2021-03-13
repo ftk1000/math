@@ -21,6 +21,11 @@
  
 ## [https://www.face-rec.org/algorithms/](https://www.face-rec.org/algorithms/)
 
+## Reading
+
+* [High-Dimensional_Data_Analysis_The_Curses_and_Blessings_of_Dimensionality](https://www.researchgate.net/publication/220049061_High-Dimensional_Data_Analysis_The_Curses_and_Blessings_of_Dimensionality)
+* []()
+
 * []()
 
 ### Erdos
