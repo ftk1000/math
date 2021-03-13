@@ -24,6 +24,9 @@
 ## Reading
 
 * [High-Dimensional_Data_Analysis_The_Curses_and_Blessings_of_Dimensionality, David Donoho](https://www.researchgate.net/publication/220049061_High-Dimensional_Data_Analysis_The_Curses_and_Blessings_of_Dimensionality)
+   * John Tukey was very indiosyncratic, having been home schooled, and so had unusual means of self-expression; he also drew on an unusually
+broad array of knowledge (he was trained as a chemist before entering mathematics)
+
 * []()
 
 * []()
