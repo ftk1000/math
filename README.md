@@ -28,7 +28,7 @@
 broad array of knowledge (he was trained as a chemist before entering mathematics)
    * Data are here now, they’ll be coming on more and more in the future, we must analyse them, often using very humble means, and insistence on mathematics
    * Data Analysis was a potentially huge field, into which statistics – with its grounding as a subdiscipline of the mathematical sciences, via probability theory, decision theory, and analysis – fit only as a small segment.
-   * 
+   * data analysis is an activity all its own, a kind of lifelong avocation; one does not need to be a mathematician to be a data analyst – in fact there is no connection, one could as well be a biologist, etc.
 
 
 * []()
