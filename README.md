@@ -26,7 +26,7 @@
 ### [Erdos Number Project](https://oakland.edu/enp/)
 * [EN-1 list](https://oakland.edu/enp/thedata/erdos1/)
 * [EN-2 list](https://oakland.edu/enp/thedata/erdos2/)
-* [New web page from ENP](https://sites.google.com/a/oakland.edu/jerry-grossman-home-page/home/the-erdoes-number-project)
+* [EN-1 list on a new webpage](https://sites.google.com/a/oakland.edu/jerry-grossman-home-page/home/the-erdoes-number-project/the-erdoes-number-project-data-files/erdos1)
 * []()
 * []()
 
