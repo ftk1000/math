@@ -23,15 +23,13 @@
 
 
 
+### [Erdos Number Project](https://oakland.edu/enp/)
+* [EN-1 list](https://oakland.edu/enp/thedata/erdos1/)
+* [EN-2 list](https://oakland.edu/enp/thedata/erdos2/)
+* [New web page from ENP](https://sites.google.com/a/oakland.edu/jerry-grossman-home-page/home/the-erdoes-number-project)
+* []()
 * []()
 
-* []()
-
-### Erdos
-
-* [Erdos number list at oakland.edu](https://oakland.edu/enp/thedata/erdos1/)
-
-* []()
 
 ---------
 
