@@ -12,10 +12,6 @@
 
 * []()
 
-# LaTeX
-* [Getting started with LaTeX](https://math.vanderbilt.edu/bohmanar/latex.html)
-
-* []()
 
 * []()
  
