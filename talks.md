@@ -4,7 +4,7 @@
 * [3Blue-1Brown:2018: Visualizing quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg)<br>
 * [3Blue-1Brown:2018: Complex number fundamentals | Lockdown math ep. 3](https://www.youtube.com/watch?v=5PcpBw5Hbwo)<br>
 * [3Blue-1Brown: https://itempool.com/3b1b](https://itempool.com/3b1b)<br>
-* []()<br>
+* [3Blue-1Brown: Groups](https://www.youtube.com/watch?v=mH0oCDa74tE)<br>
 * []()<br>
 * []()<br>
 * 
