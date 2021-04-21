@@ -7,7 +7,7 @@
 * [3Blue-1Brown: 2020: Group theory, abstraction, and the 196,883-dimensional monster](https://www.youtube.com/watch?v=mH0oCDa74tE)<br>
 * [3Blue-1Brown: 2021: How (and why) to raise e to the power of a matrix | DE6]()<br>
 
-    $\exp(M) = \sum \frac{1}{n!}M^n$
+    $\exp(M) = \sum_{n=0}^{\infty} \frac{1}{n!}M^n$
       
 * []()<br>
 * []()<br>
