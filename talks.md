@@ -9,7 +9,7 @@
 
        Def $\exp(M) := \sum_{n=0}^{\infty} \frac{1}{n!}M^n$   Taylor series
       
-* []()<br>
+* [3Blue-1Brown: Differential equations (6 Videos)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)<br>
 * []()<br>
 * []()<br>
 * []()<br>
