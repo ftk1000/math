@@ -10,9 +10,12 @@
        Def $\exp(M) := \sum_{n=0}^{\infty} \frac{1}{n!}M^n$   Taylor series
       
 * [3Blue-1Brown: Differential equations (6 Videos)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)<br>
-* []()<br>
-* []()<br>
-* []()<br>
+
+# Power of MATH:
+
+* [Grant Sanderson: 2020: What Makes People Engage With Math](https://www.youtube.com/watch?v=s_L-fp8gDzY)<br>
+* [Dan Finkel: 2016: Five Principles of Extraordinary Math Teaching](https://www.youtube.com/watch?v=ytVneQUA5-c)<br>
+* [Masha Gershman: 2017: What Can We Learn From The Russian Approach To Math Education?](https://www.youtube.com/watch?v=aj77DafszIc&t=628s)<br>
 * []()<br>
 * []()<br>
 * 
