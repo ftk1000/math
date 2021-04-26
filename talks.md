@@ -15,6 +15,7 @@
 
 * [Grant Sanderson: 2020: What Makes People Engage With Math](https://www.youtube.com/watch?v=s_L-fp8gDzY)<br>
 * [Dan Finkel: 2016: Five Principles of Extraordinary Math Teaching](https://www.youtube.com/watch?v=ytVneQUA5-c)<br>
+
        1. start with a question
        2. students need time to struggle
        3. you are not the answer key
